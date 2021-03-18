@@ -22,7 +22,7 @@ This way, you _never_ store PII data on your computer.
 ```
 C:/
 |--- Users/
-     |--- alex.bhattacharya/
+     |--- alexbhatt/
           |--- repos/
                |--- project1/
                |--- project2/
